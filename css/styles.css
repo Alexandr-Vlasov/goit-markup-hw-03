@@ -196,10 +196,6 @@ padding: 188px 0;
     overflow: hidden;
 }
 
-.features-title {
-    visually-hidden;
-}
-
 .features-list {
     display: flex;
     padding: 120px 0px;
