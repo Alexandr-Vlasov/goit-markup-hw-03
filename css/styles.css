@@ -135,7 +135,6 @@ padding: 188px 0;
 }
 
 .hero-container {
-        padding: 188px 331px;
 }
 
 .hero-title {
@@ -147,6 +146,8 @@ padding: 188px 0;
         color: #FFFFFF;
         max-width: 496px;
         margin-bottom: 48px;
+        margin-left: auto;
+        margin-right: auto;
     }
 
 .hero-btn {
@@ -198,7 +199,6 @@ padding: 188px 0;
 
 .features-list {
     display: flex;
-    padding: 120px 0px;
     gap: 24px;
 }
 
@@ -258,7 +258,6 @@ padding: 188px 0;
 
 .team-img {
     margin: 0 auto;
-    margin-bottom: 32px;
 }
 
 .team-ocntainer-workers {
@@ -281,7 +280,6 @@ padding: 188px 0;
         line-height: 1.5;
         letter-spacing: 0.02em;
         text-align: center;
-        padding-bottom: 32px;
 }
 
 /*------------------------------- */
